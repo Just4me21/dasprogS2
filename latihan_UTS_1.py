@@ -1,4 +1,4 @@
-nama = "Abdul hayyi rizki"
+nama = "ABDUL HAYYI RIZKI"
 nim = "220602031"
 prodi = "Teknik Informatika"
 lulus_thn = 2020
