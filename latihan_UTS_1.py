@@ -1,11 +1,11 @@
-nama = "Deri luzu Mutaasani"
-nim = "220602036"
+nama = "Abdul hayyi rizki"
+nim = "220602031"
 prodi = "Teknik Informatika"
 lulus_thn = 2020
-asal = "Dasan Sawe, Labuhan haji"
-asal_sd = "SDN 2 Teros"
-asal_smp = "SMPN 1 Labuhan Haji"
-asal_sma = "SMAN 1 Labuhan Haji"
+asal = "MASBAGIK"
+asal_sd = "MI YADINU IV DASAN MAALAN "
+asal_smp = "MTS TARBIYATUL MUSLIMIN"
+asal_sma = "SMKN 1 SIKUR"
 
 print(f"Nama : {nama}")
 print(f"Nim : {nim}")
